@@ -6,6 +6,6 @@ import App21 from "./App21";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
-    <App21 />
+    <App24 />
   </>
 );
